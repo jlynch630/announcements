@@ -1,1 +1,1 @@
-# annnouncements
+# announcements
